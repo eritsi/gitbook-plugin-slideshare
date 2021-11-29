@@ -1,0 +1,18 @@
+{
+    "name": "gitbook-plugin-slideshare",
+    "description": "Eritsi's slideshare plugin for GitBook",
+    "main": "index.js",
+    "version": "0.0.2",
+    "engines": {
+        "gitbook": "*"
+    },
+    "homepage": "https://github.com/eritsi/gitbook-plugin-slideshare",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/eritsi/gitbook-plugin-slideshare"
+    },
+    "license": "Apache 2",
+    "bugs": {
+        "url": "https://github.com/eritsi/gitbook-plugin-slideshare/issues"
+    }
+}
