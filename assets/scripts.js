@@ -1,5 +1,5 @@
 function renderSlideshare(event) {
-  var iframes         = document.querySelectorAll('.slide-wrapper');
+  var iframes         = document.querySelectorAll('.slideshare-wrapper');
   var loaded          = 0;
   var total           = iframes.length;
   var externalScripts = [];
