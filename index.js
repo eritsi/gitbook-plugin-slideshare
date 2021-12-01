@@ -4,7 +4,7 @@ function slideshare(url, kwargs) {
 
   if (!!url.length) {
     endpoint += 'url=' + encodeURIComponent(url);
-    return '<div class="noembed-wrapper" data-url="' + endpoint + '" data-page=' + page + '>' + url + '</div>';
+    return '<div class="slideshare-wrapper" data-url="' + endpoint + '" data-page=' + page + '>' + url + '</div>';
   }
 
   return url;
